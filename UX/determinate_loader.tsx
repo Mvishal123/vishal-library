@@ -15,3 +15,8 @@ const startProgressBar = () => {
 
   return interval;
 };
+
+// set isLoading true
+// start the function
+//db stuff
+//set isLoading to false
